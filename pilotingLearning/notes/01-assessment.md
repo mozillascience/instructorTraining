@@ -32,11 +32,11 @@ No matter how good a teacher you are, you can only pitch a lesson at one level a
 
 Consider the following recipe, to be followed after a short lesson on a single concept:
 
- - Give students an MCQ, probing for misconceptions on the topic just taught.
- - Have all the students vote publicly on their answers to the MCQ.
- - Break the class into groups of 3-4, and have them discuss & debate the question within their groups.
- - Reconvene & explain the correct solution to the MCQ to the class.
- - Have the students return to their former groups, and discuss the problem again.
+ 1. Give students an MCQ, probing for misconceptions on the topic just taught.
+ 2. Have all the students vote publicly on their answers to the MCQ.
+ 3. Break the class into groups of 3-4, and have them discuss & debate the question within their groups.
+ 4. Reconvene & explain the correct solution to the MCQ to the class.
+ 5. Have the students return to their former groups, and discuss the problem again.
 
 The first two steps of this recipe codify the use of a formative question to probe for misunderstandings, but the next three steps each add something more. By getting students to discuss their original answers, they are compelled to clarify their thinking enough to verbalize it, which itself can be enough to call out gaps in reasoning. An opportunity for further explanation after polling the class is then furnished, so the instructor has a chance to diffuse the most common misconception revealed by the public MCQ answers. But perhaps most crucial is the final step; now armed with the correct answer and an explanation of how to arrive at it, students strong enough in the concept can spend a few minutes explaining it to students who need another run at it.
 
