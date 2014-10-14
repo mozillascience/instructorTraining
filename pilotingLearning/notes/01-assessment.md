@@ -23,18 +23,23 @@ Time is at a premium in the workshop environment. Taking time out to administer 
 ##Adaptation
 So - you've just administered a quick formative multiple choice question, and the majority of your students are quite convinced that 37+25 = 512; what now? Formative assessment has zeroed in on a misconception; armed with that knowledge, what are some strategies for correcting the problem?
 
-This is one place a densely connected concept map comes in handy. Presumably the first time you taught the misbegotten concept, it was introduced as the a node connected to some pre-existing scaffolding the students were comfortable with. Perhaps the connection originally explored was more obvious to some students than others; coming at the concept again from a different connection will reinforce the understanding of those that already get it, and give those struggling another run at it. If addition fell flat as a powered-up version of counting, re-examine number representation and the meaning of places and digits, for example.
+This is one place a densely connected concept map comes in handy. Presumably the first time you taught the misbegotten concept, it was introduced as a node on a concept map connected to some pre-existing scaffolding the students were comfortable with. Perhaps the connection originally explored was more obvious to some students than others; coming at the concept again from a different connection will reinforce the understanding of those that already get it, and give those struggling another run at it. If addition fell flat as a powered-up version of counting, re-examine number representation and the meaning of places and digits, for example.
 
 Repeating nearly identical examples that follow the same lines of reasoning, on the other hand, not only adds little to the conversation, but runs the risk of being counterproductive, by reasserting the confusion that lead to misconception in the first place, thus potentially cementing it even further. The trouble being, that even the most creative instructor eventually runs out of ways to explain the same idea. How can we create a learning environment that's even more adaptive than we are?
 
 ###Peer Instruction
+No matter how good a teacher you are, you can only pitch a lesson at one level at a time, and phrase your oration one way at a time. In any class (but in open-signup workshops especially), students will come with a very broad distribution of skills and knowledge; the best we can hope to do with lecture alone is to hit the center of that distribution. But what about the tails?
 
+Consider the following recipe, to be followed after a short lesson on a single concept:
 
-```
-notes
-MCQ == formalization of socratic questioning
-q: why am I up here?
-a: to teach you stuff
-q: what is the most important word in 'teach you stuff'
-a: 'you'. most people think its 'teach', leads to impersonal one-size march through teaching. the teaching process works best when it considers its students.
-```
+ - Give students an MCQ, probing for misconceptions on the topic just taught.
+ - Have all the students vote publicly on their answers to the MCQ.
+ - Break the class into groups of 3-4, and have them discuss & debate the question within their groups.
+ - Reconvene & explain the correct solution to the MCQ to the class.
+ - Have the students return to their former groups, and discuss the problem again.
+
+The first two steps of this recipe codify the use of a formative question to probe for misunderstandings, but the next three steps each add something more. By getting students to discuss their original answers, they are compelled to clarify their thinking enough to verbalize it, which itself can be enough to call out gaps in reasoning. An opportunity for further explanation after polling the class is then furnished, so the instructor has a chance to diffuse the most common misconception revealed by the public MCQ answers. But perhaps most crucial is the final step; now armed with the correct answer and an explanation of how to arrive at it, students strong enough in the concept can spend a few minutes explaining it to students who need another run at it.
+
+This has numerous benefits. Our original goal was to make our lesson more adaptive than we (or any one individual) could be, and offer multiple different explanations of a concept to maximize students' chances of getting it; by employing the class, we get as many distinct explanations & phrasings of a concept as we have students who get it. Furthermore, those explanations are delivered in a personal and conversational context, so students who need the extra help get essentially personal tutoring in situ. What's more, the experience of teaching gives the stronger students the challenge and opportunity to make their own understanding so clear and well articulated that it can be taught to someone else. By infusing peer instruction into our lessons, we have used those hard-to-reach tails of the skill distribution to help each other.
+
+(see activity assessment_02.html)
