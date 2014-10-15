@@ -16,4 +16,4 @@ And repeat 2-4 until the end of the allotted time for the course, with some midt
 
 These situations and pitfalls are common products of this 'march-through' approach to lesson design. We would like our instruction to be better *targeted*, more *constructive*, more *reliable* and more *adaptable* - but how?
 
-A couple of tools will let us reach for our ambition. In this unit, we'll learn about *summative vs. formative assessment*, which will help our lessons be more constructive and adaptable, and about *reverse instructional design*, which will help with targeting and reliability. Also, we'll take a look at testing, and how it can be done right (and wrong).
+A couple of tools will let us reach for our ambition. In this unit, we'll learn about *reverse instructional design*, which will help with targeting and reliability, and about *summative vs. formative assessment*, which will help our lessons be more constructive and adaptable.
