@@ -1,6 +1,6 @@
 #Instructor Training
 
-In this repo, we'll be developing MSL's spin on instructor training materials for software workshops.
+In this repo, we'll be developing and iterating on instructor training materials led by MSL staff for software workshops.
 
 This work &copy; 2014 Mozilla Science Lab.
 
